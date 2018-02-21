@@ -11,11 +11,13 @@ https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-8/
 
 
 Questions:
+
 Dataset 1 :
 1. Has the crime decreased or increased over the last 20 years?
 2. Has the type of crime changed?   --- --- --- --- Most frequent crime every 10th year (1994, '04, '13)
 ----------------------------------- ------ - - - - - - - - - - - -- -  - - - - -
 Dataset 2 :
+
 3. Has the crime moved from one area to another? 
 4. Is there a connection between type of crimes and locations?
 5. Which year was the most crime commited?  and what crime occured most times?
